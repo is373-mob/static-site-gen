@@ -1,0 +1,7 @@
+plugins:
+  - ./scripts/md-link-to-html/
+
+url: https://is373-mob.github.io/website
+root: /website/
+
+theme: landscape
