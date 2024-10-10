@@ -3,4 +3,4 @@
 	url = https://github.com/is373-mob/content.git
 [submodule "playwright"]
 	path = playwright
-	url = https://github.com/is373-mob/playwright.git
+	url = https://github.com/your-username/playwright
