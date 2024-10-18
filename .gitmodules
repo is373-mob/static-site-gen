@@ -4,3 +4,6 @@
 [submodule "playwright"]
 	path = playwright
 	url = https://github.com/is373-mob/playwright.git
+[submodule "themes/landscape"]
+	path = themes/landscape
+	url = https://github.com/hexojs/hexo-theme-landscape.git
