@@ -7,7 +7,4 @@ widgets:
 - recent_posts
 menu:
   Home: /
-  Clojure: /clojure
-  Hexo: /hexo
-  Ubuntu: http://ubuntu.jr0cket.co.uk
-  Archives: /archives
+  Initiatives: /initiatives
