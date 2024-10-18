@@ -1,8 +1,7 @@
 menu:
   Home: /
   Initiatives: /initiatives
-  Archives: /archives
-
+  
 plugins:
   - ./scripts/md-link-to-html/
 
