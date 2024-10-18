@@ -1,17 +1,16 @@
 menu:
-  Home: /
-  Initiatives: /initiatives
-  Archives: /archives
+    Home: /
+    Initiatives: /initiatives
+    Archives: /archives
 
 plugins:
-  - ./scripts/md-link-to-html/
+    - ./scripts/md-link-to-html/
 
 url: https://is373-mob.github.io/website
 root: /website
 
 theme: landscape
 # Include your custom theme config
-theme_config: 
-  # Load the landscape config file
-  <% include('_config.landscape.yml') %>
-
+theme_config:
+    # Load the landscape config file
+    <% include('_config.landscape.yml') %>

@@ -1,14 +1,13 @@
 sidebar: right
 widgets:
-- category
-- tag
-- tagcloud
-- archive
-- recent_posts
+    - category
+    - tag
+    - tagcloud
+    - archive
+    - recent_posts
 menu:
-  Home: /
-  Initiatives: /0-0-initiative
-  Kernel: /1-0-kernel
-  Virtualization: /2-0-virtualization
-  Containerization: /3-0-containerization
-
+    Home: /
+    Initiatives: /0-0-initiative
+    Kernel: /1-0-kernel
+    Virtualization: /2-0-virtualization
+    Containerization: /3-0-containerization
